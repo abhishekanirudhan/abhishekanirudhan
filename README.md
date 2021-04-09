@@ -1,8 +1,8 @@
 👋 Hi, I’m @abhishekanirudhan
 
-I have a background in Economics and Data. I enjoy understanding problems, tinkering about, and eventually fixing them.
+I try to learn something new every day. I'm interested in statistical learning, no code and economics. 
 
-You can reach me on [twitter](https://twitter.com/abhi_a95)
+You can say hello to me on [twitter](https://twitter.com/abhi_a95)
 
 <!---
 abhishekanirudhan/abhishekanirudhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

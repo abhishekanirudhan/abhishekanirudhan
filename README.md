@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abhishekanirudhan
+👋 Hi, I’m @abhishekanirudhan
 
-- 👀 I’m interested in using data to answer difficult questions.
-- 🌱 I’m currently learning deep learning and how to write better.
-- 📫 You can reach me on [twitter](https://twitter.com/abhi_a95)
+I have a background in Economics and Data. I enjoy understanding problems, tinkering about, and eventually fixing them.
+
+You can reach me on [twitter](https://twitter.com/abhi_a95)
 
 <!---
 abhishekanirudhan/abhishekanirudhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
